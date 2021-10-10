@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# GilgaMESH
 
-Author: (TODO: your name)
+Author: Thomas Wrabetz
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It's a maze.
 
 Screen Shot:
 
@@ -10,9 +10,9 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Move with WASD. The blue sphere is the starting point. Find + touch the purple sphere to win.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: Made all the stuff out of primitives in Blender.
 
 This game was built with [NEST](NEST.md).
 
